@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78888195796",
+    "project_id": "app-papelaria",
+    "storage_bucket": "app-papelaria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78888195796:android:6348b7605c0936f73ecd41",
+        "android_client_info": {
+          "package_name": "com.example.app04_imc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78888195796-g9m4ag4hfj8vhs759h8rkel13tfkol6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzR5f5rHrxcEX0h3lChGh2FF7qXdBA5DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78888195796-g9m4ag4hfj8vhs759h8rkel13tfkol6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
